@@ -1,0 +1,27 @@
+{
+  "name": "cpp",
+  "version": "1.0.0",
+  "description": "CC price predictor",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyukyuColin/cpp.git"
+  },
+  "author": "RyukyuColin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyukyuColin/cpp/issues"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "brain.js": "^1.2.2",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.3",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  }
+}
