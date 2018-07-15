@@ -4,7 +4,7 @@
   "description": "CC price predictor",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "nodemon ./bin/www"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "express": "~4.16.3",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.2"
   }
 }
