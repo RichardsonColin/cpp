@@ -16,13 +16,14 @@
     "url": "https://github.com/RyukyuColin/cpp/issues"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
     "brain.js": "^1.2.2",
+    "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
     "express": "~4.16.3",
     "http-errors": "~1.6.2",
-    "morgan": "~1.9.0"
+    "morgan": "~1.9.0",
+    "request": "^2.87.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.2"
