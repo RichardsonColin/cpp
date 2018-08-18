@@ -16,7 +16,7 @@
     "url": "https://github.com/RyukyuColin/cpp/issues"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^0.12.5",
+    "@tensorflow/tfjs-node": "^0.1.13",
     "body-parser": "^1.18.3",
     "brain.js": "^1.2.2",
     "cookie-parser": "~1.4.3",
